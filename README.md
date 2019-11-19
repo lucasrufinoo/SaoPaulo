@@ -1,2 +1,0 @@
-# SaoPaulo
-Created with CodeSandbox
